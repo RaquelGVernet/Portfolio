@@ -9,7 +9,7 @@ And in this Folder you can find:
 | File | Description |
 |------|-------------|
 | `1) Spaceship Titanic - EDA, Imputation and Feature Engineering.ipynb` | Notebook with data exploration, imputation, and feature engineering. |
-| `2) Spaceship Titanic - Models and final submission.ipynb` | Notebook with model training, tuning, evaluation, and submission. |
+| `2) Spaceship Titanic - Models and final submission.ipynb` | Notebook with model training (Random Forest, XGBoost), tuning, evaluation, and submission. |
 | `processed_train.csv` | Preprocessed training dataset ready for modeling. |
 | `processed_test.csv` | Preprocessed test dataset ready for modeling. |
 | `spaceship_titanic_submission_0825_2.csv` | Final Kaggle submission file (score: 0.80173). |
