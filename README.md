@@ -12,5 +12,5 @@ In this folder, you can find a step-by-step guide including:
 - Exploratory Data Analysis (EDA)
 - Data cleaning and imputation
 - Feature engineering
-- Model training, tuning, and evaluation
+- Model training (Ranfom Forest, XGBoost, Ensemble), tuning, and evaluation
 - **Kaggle submission achieving a score of 0.80173**
