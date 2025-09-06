@@ -5,7 +5,7 @@ This project simulates a **randomized controlled trial (RCT)** investigating the
 
 ---
 
-## 📂 In this folder, you will find:  
+## In this folder, you will find:  
 
 | File | Description |  
 |------|-------------|  
@@ -13,7 +13,7 @@ This project simulates a **randomized controlled trial (RCT)** investigating the
 
 ---
 
-## 🔑 Key Takeaways  
+## Key Takeaways  
 
 - **Early treatment** significantly reduces mortality, increases survival probability, and speeds recovery.  
 - **Late treatment** is detrimental, leading to higher mortality and slower recovery.  
