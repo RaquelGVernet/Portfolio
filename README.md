@@ -1,4 +1,4 @@
-# Portfolio (in progress)
+# Portfolio
 
 Hi! 👋 My name is Raquel, and this is my personal Data Science Portfolio. Here, I share some of my personal projects demonstrating data exploration, feature engineering, modeling, and predictive analysis.
 
