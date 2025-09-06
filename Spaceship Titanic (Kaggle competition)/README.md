@@ -4,7 +4,7 @@ This project investigates why nearly half of the Titanic passengers were transpo
 You can find the datasets here:  
 [Spaceship Titanic - Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/data)
 
-And in this Folder you can find:
+## In this folder you will find:
 
 | File | Description |
 |------|-------------|
